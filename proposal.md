@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-Detective Kova and the Heart Stealer at Midnight (DTHSAM)
+Take It Easy, Detective Kova!
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
