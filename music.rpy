@@ -1,1 +1,0 @@
-define opening = "audio/music/overworkd.ogg"
