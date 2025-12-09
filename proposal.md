@@ -1,4 +1,4 @@
-# Proposal
+# Proposal [PLEASE SEE THE PREVIOUSLY COMMITTED PROPOSAL . MD THE INFORMATION HERE IS INACCURATE
 
 ## What will (likely) be the title of your project?
 
